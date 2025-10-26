@@ -64,7 +64,7 @@ def sgd_momentum(w, dw, config=None):
     #############################################################################
     # TODO: Implement the momentum update formula as given in lecture. Store    #
     # the updated value in the next_w variable. You should also use and update  #
-    # the velocity v.                                                           # 
+    # the velocity v.                                                           #
     #############################################################################
     pass
     #############################################################################
